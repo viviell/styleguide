@@ -1,0 +1,157 @@
+html {
+    display: block;
+    background-color: rgb(230, 209, 230);
+}
+
+
+  /*font-family: 'Dancing Script', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;*/
+
+
+.container {
+    border: 2px solid rgb(155, 30, 155);
+    padding: 10px;
+    margin: 10px auto;
+}
+
+div {
+    display: block;
+}
+
+p {
+    font-size: small;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    margin: 20px 0;
+    width: 19.5%;
+}
+
+/*.sapphire {
+    background-color: #33539E;
+    color: #92a0c0;
+}*/
+
+.danube {
+    background-color: #7FACD6;
+    color: #1a3852;
+}
+
+.lavender-gray {
+    background-color: #BFB8DA;
+    color: #372f55;
+}
+
+.light-orchid {
+    background-color: #E8B7D4;
+    color: #690742;
+}
+
+.strikemaster {
+    background-color: #A5678E;
+    color: #5c1040;
+}
+
+.font-panel {
+    width: auto;
+    display: inline-table;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.thin {
+    font-weight: 100;
+    font-style: italic;
+}
+
+.light {
+    font-weight: 300;
+    font-style: normal;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.light-300 {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.regular-400-italic {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.regular.playfair {
+    font-style: italic;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.semi-bold {
+    font-weight: 600;
+}
+
+.semi-bold-600 {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.dancing {
+    font-family: 'Dancing Script', cursive;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+}
+
+h4 {
+    font-weight: 100;
+}
